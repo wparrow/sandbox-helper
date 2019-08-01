@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: SandBox User Force Create
- * Description: This plugin is linked with WP Ninja Demo which create demo site for plugin. and this plugin hooks and create 2 extra users
+ * Plugin Name: WPArrow Sandbox Helper
+ * Description: Custom Helper Plugin For MotoPress Demo Builder
  * Author: Varun Sridharan
  * Version: 1.0
  */
